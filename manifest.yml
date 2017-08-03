@@ -4,8 +4,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: dWTVAdvancedAppCF37
-  host: dWTVAdvancedAppCF37
+  name: [your clever name here]
+  host: [your clever name here]
   disk_quota: 1024M
-  services: 
-  - Cloudant NoSQL DB-z2
