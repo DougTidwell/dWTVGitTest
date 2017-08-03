@@ -1,0 +1,12 @@
+applications:
+- path: .
+  command: node app.js
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: dWTVAdvancedAppCF37
+  host: dWTVAdvancedAppCF37
+  disk_quota: 1024M
+  services: 
+  - Cloudant NoSQL DB-37
+
