@@ -1,9 +1,0 @@
-applications:
-- path: .
-  command: node app.js
-  memory: 256M
-  instances: 1
-  domain: mybluemix.net
-  name: [your clever name here]
-  host: [your clever name here]
-  disk_quota: 1024M
