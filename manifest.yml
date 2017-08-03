@@ -8,5 +8,4 @@ applications:
   host: dWTVAdvancedAppCF37
   disk_quota: 1024M
   services: 
-  - Cloudant NoSQL DB-37
-
+  - Cloudant NoSQL DB-z2
