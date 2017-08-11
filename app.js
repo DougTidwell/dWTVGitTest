@@ -62,4 +62,5 @@ app.post('/registration', function(req, res){
 
 // start server on the specified port
 app.listen(port);
-console.log("Server started....");
+console.log(`Using node.js version ${process.version}`);
+console.log(`Server started on port ${port} ...`);
